@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-04T18:21:04.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="i0PfeZh3mOWyiHBMR9kI" version="20.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-04T18:28:44.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="038wL986HU5cSifGy3YH" version="20.2.8" type="github" pages="2">
   <diagram id="sNKYq2fazUTUynWYdjhh" name="Microservice Arch">
     <mxGraphModel dx="1015" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -128,8 +128,8 @@
         <mxCell id="vr172TNNswbdeGItD2BW-26" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="vr172TNNswbdeGItD2BW-84" vertex="1">
           <mxGeometry x="10" y="188" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K-U826PI6UrCO6DZEtph-1" value="Workflow DB is SQL, Why?&lt;br&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;Structured&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Status Movements&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;G &amp;amp; O, Comments is NoSQL, Why?&lt;/div&gt;&lt;div style=&quot;&quot;&gt;key/value structure&lt;/div&gt;&lt;div style=&quot;&quot;&gt;document based NoSQL engine&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;shadow=1;dashed=1;sketch=0;fontSize=11;strokeColor=default;fillColor=default;gradientColor=none;gradientDirection=north;align=left;spacingLeft=3;" parent="vr172TNNswbdeGItD2BW-84" vertex="1">
-          <mxGeometry x="10" y="570.5" width="180" height="120" as="geometry" />
+        <mxCell id="K-U826PI6UrCO6DZEtph-1" value="&lt;b&gt;Workflow DB is SQL, Why?&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Structured&lt;/span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div style=&quot;&quot;&gt;Status Movements&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;G &amp;amp; O, Comments is NoSQL, Why?&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;key/value structure&lt;/div&gt;&lt;div style=&quot;&quot;&gt;document based NoSQL engine&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;shadow=1;dashed=1;sketch=0;fontSize=11;strokeColor=default;fillColor=default;gradientColor=none;gradientDirection=north;align=left;spacingLeft=3;" parent="vr172TNNswbdeGItD2BW-84" vertex="1">
+          <mxGeometry x="10" y="570.5" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="E7qMExg4ldT-U1dBFAiQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="vr172TNNswbdeGItD2BW-84" source="33JB_ROmpl-JuhrpNIeE-1" target="YPgCl_uxavfxQToP8f18-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -202,7 +202,7 @@
           <mxGeometry x="440" y="233" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4shmP2cHVcS9H7tp8FQC-23" value="&lt;span&gt;Review Comments&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontStyle=1;fontColor=#0000CC;" vertex="1" parent="vr172TNNswbdeGItD2BW-84">
-          <mxGeometry x="470" y="425" width="110" height="30" as="geometry" />
+          <mxGeometry x="440" y="423.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kwpSuHReBOCeeDKnSrdF-1" value="&lt;span&gt;Workflow&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontStyle=1;fontColor=#0000CC;" vertex="1" parent="vr172TNNswbdeGItD2BW-84">
           <mxGeometry x="450" y="6" width="70" height="30" as="geometry" />
