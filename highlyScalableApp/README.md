@@ -9,3 +9,6 @@ Quite often we need to scale the application depending on the load that comes in
 
 The application aims to break down the traffic of users that come onto Monolith App and divert them to individual micro services.
 This not only distributes the traffic of users but also helps in scaling up/down respective service where the load is high.
+
+
+![Uploading image.png…]()
